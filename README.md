@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python & Java
 - 💞️ I want to became a Coder
-- I also have a YT Channel - InfoyPS
+- I also have a YT Channel - [InfoyPS](https://youtube.com/@infoyps)
 
 
 <!---
