@@ -4,7 +4,7 @@
 - 🤖 I want to became a Coder
 - ✨ I also have a YT Channel - [InfoyPS](https://youtube.com/@infoyps)
 
-[![Infoy's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PSGitHubUser1&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Infoy's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PSGitHubUser1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 PSGitHubUser1/PSGitHubUser1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
