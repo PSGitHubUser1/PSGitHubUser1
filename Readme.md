@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PSGitHubUser1
+- 👋 Hi, I’m [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python & Java
 - 🤖 I want to became a Coder
