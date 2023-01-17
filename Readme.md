@@ -5,10 +5,26 @@
 - ✨ I also have a YT Channel - [InfoyPS](https://youtube.com/@infoyps)
 - 🪧 Discord - PSPlaysMC#3778
 
-[![Infoy's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PSGitHubUser1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary><b>GitHub Stats</b></summary>
+  <br />
 
+  <div>
+    
+[![Infoy's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PSGitHubUser1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
+  <div>
+    
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=PSGitHubUser1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
+  <div>
+    
+[![Infoy's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/wakatime?username=PSGitHubUser1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+    
+  </div>
+</details>
 
 
 <!--
