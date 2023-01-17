@@ -18,12 +18,6 @@
     
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=PSGitHubUser1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   </div>
-
-  <div>
-    
-[![Infoy's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/wakatime?username=PSGitHubUser1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-    
-  </div>
 </details>
 
 
