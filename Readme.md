@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSGitHubUser1&theme=rgb&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSGitHubUser1&theme=dark&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 - 👋 Hi, I’m [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python & Java
@@ -6,7 +6,7 @@
 - ✨ I also have a YT Channel - [InfoyPS](https://youtube.com/@infoyps)
 - 🪧 Discord - PSPlaysMC#3778
     
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,vscode,c,cpp,csharp,java,gradle,git,python,html,windows,css,bash,xml,json,yaml,powershell,markdown&includeNames=true&theme=rgb)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,vscode,c,cpp,csharp,java,gradle,git,python,html,windows,css,bash,xml,json,yaml,powershell,markdown&includeNames=true&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 <details>
   <summary><b>GitHub Stats</b></summary>
