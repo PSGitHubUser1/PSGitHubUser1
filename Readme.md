@@ -6,7 +6,7 @@
 - ✨ I also have a YT Channel - [InfoyPS](https://youtube.com/@infoyps)
 - 🪧 Discord - PSPlaysMC#3778
     
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,vscode,c,cpp,csharp,java,gradle,git,python,html,windows,css,bash,xml,json,yaml,powershell,markdown&includeNames=true&theme=dark)](https://github.com/PSGitHubUser1/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,vscode,c,cpp,csharp,wordpress,dotnet,dotnetcore,java,gradle,git,python,html,windows,css,bash,xml,json,yaml,powershell,markdown&includeNames=true&theme=dark)](https://github.com/PSGitHubUser1/github-widgetbox)
 
 <details>
   <summary><b>GitHub Stats</b></summary>
