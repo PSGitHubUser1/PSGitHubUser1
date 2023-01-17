@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSGitHubUser1&theme=dark&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSGitHubUser1&theme=dark&data=followers,repositories,stars,commits)](https://github.com/PSGitHubUser1/github-widgetbox)
 - 👋 Hi, I’m [@PSGitHubUser1](https://github.com/PSGitHubUser1)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python & Java
