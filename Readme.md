@@ -1,30 +1,34 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PSGitHubUser1&theme=dark&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-- 👋 Hi, I’m [@PSGitHubUser1](https://github.com/PSGitHubUser1)
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python & Java
-- 🤖 I want to became a Coder
-- ✨ I also have a YT Channel - [InfoyPS](https://youtube.com/@infoyps)
-- 🪧 Discord - PSPlaysMC#3778
-    
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,vscode,gradle,git,python,html,windows,css,bash,xml,json,yaml,powershell,markdown&includeNames=true&theme=dark)](https://github.com/PSGitHubUser1/github-widgetbox)
+<h1 align="center">Hi 👋, I'm Prabhesh Swesh</h1>
+<h3 align="center">A small developer from India</h3>
 
-<details>
-  <summary><b>GitHub Stats</b></summary>
-  <br />
- 
-  <div>
-    
-[![Infoy's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PSGitHubUser1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-
-  <div>
-    
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=PSGitHubUser1&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-</details>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=psgithubuser1&label=Profile%20views&color=0e75b6&style=flat" alt="psgithubuser1" /> </p><br>
 
 
-<!--
-PSGitHubUser1/PSGitHubUser1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="left"> <a href="https://twitter.com/real_infoyps" target="blank"><img src="https://img.shields.io/twitter/follow/real_infoyps?logo=twitter&style=for-the-badge" alt="real_infoyps" /></a> </p><br>
+
+- 🌱 I’m currently learning **Java, Python and MCreator/Minecraft releated**
+
+- 👨‍💻 All of my projects are available at [https://github.com/PSGitHubUser1?tab=repositories](https://github.com/PSGitHubUser1?tab=repositories)
+
+- 💬 Ask me about **JSON, VSCode, YAML, Markdown**
+
+- 📫 How to reach me **infoyps13@gmail.com**
+
+- ⚡ Fun fact **I randomly come online.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/real_infoyps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="real_infoyps" height="30" width="40" /></a>
+<a href="https://instagram.com/prabhesh_infoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhesh_infoy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@infoyps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infoyps" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psgithubuser1&show_icons=true&locale=en&theme=dark&layout=compact" alt="psgithubuser1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psgithubuser1&show_icons=true&locale=en&theme=dark" alt="psgithubuser1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psgithubuser1&theme=dark" alt="psgithubuser1" /></p>
