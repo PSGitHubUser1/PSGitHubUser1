@@ -3,8 +3,6 @@
 
 ![](https://img.shields.io/twitter/url?label=Follow%20%40real_infoyps&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Freal_infoyps)
 
-<p align="left"> <a href="https://twitter.com/real_infoyps" target="blank"><img src="https://img.shields.io/twitter/follow/real_infoyps?logo=twitter&style=for-the-badge" alt="real_infoyps" /></a> </p><br>
-
 - 🌱 I’m currently learning **Java, Python and MCreator/Minecraft releated**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PSGitHubUser1?tab=repositories](https://github.com/PSGitHubUser1?tab=repositories)
