@@ -2,19 +2,17 @@
 <h3 align="center">A small developer from India</h3>
 
 
------
-
 ![](https://img.shields.io/twitter/url?label=Follow%20%40real_infoyps&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Freal_infoyps)
 
 - 🌱 I’m currently learning **Java, Python and MCreator/Minecraft releated**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PSGitHubUser1?tab=repositories](https://github.com/PSGitHubUser1?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/PSGitHubUser1?tab=repositories).
 
-- 💬 Ask me about **JSON, VSCode, YAML, Markdown**
+- 💬 Ask me about: **JSON, VSCode, YAML, Markdown**
 
-- 📫 How to reach me **infoyps13@gmail.com**
+- 📫 How to reach me: **infoyps13@gmail.com**
 
-- ⚡ Fun fact **I randomly come online.**
+- ⚡ Fun fact: **I randomly come online.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
