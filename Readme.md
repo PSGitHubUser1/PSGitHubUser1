@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/twitter/url?label=Follow%20%40real_infoyps&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Freal_infoyps)
 
-- 🌱 I’m currently learning **Java, Python and MCreator/Minecraft releated**
+- 🌱 I’m currently learning **Java, C# and MCreator/Minecraft releated**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/PSGitHubUser1?tab=repositories).
 
