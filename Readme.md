@@ -2,7 +2,7 @@
 <h3 align="center">A small developer from India</h3>
 
 
-![](https://img.shields.io/twitter/url?label=Follow%20%40real_infoyps&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Freal_infoyps)
+
 
 - 🌱 I’m currently learning **Java, C# and MCreator/Minecraft releated**
 
@@ -16,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/real_infoyps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="real_infoyps" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@infoyps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infoyps" height="30" width="40" /></a>
  <a href="https://discord.gg/GYATqrtJSq"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PSPlaysMC#3778" height="30" width="40" /></a>
 </p>
