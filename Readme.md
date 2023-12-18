@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhesh Swesh</h1>
-<h3 align="center">A small developer from India</h3>
+<h3 align="center">A small coder from India</h3>
 
 
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **infoyps13@gmail.com**
 
-- ⚡ Fun fact: **I randomly come online.**
+- ⚡ Fun fact: **I am 14 years old kid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
