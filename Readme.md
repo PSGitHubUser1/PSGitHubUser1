@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhesh Swesh</h1>
-<h3 align="center">A small coder from India</h3>
+<h3 align="center">A small coder/gamer/idk from India</h3>
 
 
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/PSGitHubUser1?tab=repositories).
 
-- 💬 Ask me about: **JSON, VSCode, YAML, Markdown**
+- 💬 Ask me about: **nothing... :(**
 
 - 📫 How to reach me: **infoyps13@gmail.com**
 
