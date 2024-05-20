@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **infoyps13@gmail.com**
 
-- ⚡ Fun fact: **I am 15 years old kid**, **Also, I do random things....**
+- ⚡ Fun fact: **I am 15 years old**, **Also, I do random things....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
