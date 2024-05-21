@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: **I am 15 years old**, **Also, I do random things....**
   
-- 👀 **Also, my profile picture is made with ASCII generator.**
+- 👀 **Also, my profile picture is made with ASCII generator.... The picture was taken in 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
