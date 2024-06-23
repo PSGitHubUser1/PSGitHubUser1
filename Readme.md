@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, C# and MCreator/Minecraft releated**
+- 🌱 I’m currently learning **Java, Python and MCreator/Minecraft releated**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/PSGitHubUser1?tab=repositories).
 
