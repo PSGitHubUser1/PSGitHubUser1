@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **infoyps13@gmail.com**
 
-- ⚡ Fun fact: **I am 15 years old**, **Also, I love todo random things....**
+- ⚡ ~Fun~ fact: **I am 15 years old**, **Also, I love todo random things....**
   
 - 👀 **Also, my profile picture is made with ASCII generator.... The picture was taken in 2022**
 
