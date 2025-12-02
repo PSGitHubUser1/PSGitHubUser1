@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, Python and MCreator/Minecraft releated**
+- 🌱 I’m currently learning **random things?**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/PSGitHubUser1?tab=repositories).
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **infoyps13@gmail.com**
 
-- ⚡ ~Fun~ fact: **I am 15 years old**, **Also, I love todo random things....**
+- ⚡ ~Fun~ fact: **I am 16 years old**, **Also, I love todo random things....**
   
 - 👀 **Also, my profile picture is made with ASCII generator.... The picture was taken in 2022**
 
